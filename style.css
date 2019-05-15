@@ -169,7 +169,7 @@ img {
     color: grey;
     font-size: 10px;
 }
-/*text uvodní foto je stále stylováno podle všeobecného p, ačkoli je uzavřeno v divu .patička.Proč? */
+
 
 @media (min-width: 500px) {
    body { 
