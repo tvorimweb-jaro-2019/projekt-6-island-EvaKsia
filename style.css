@@ -276,7 +276,7 @@ img {
         transition: 300ms;
     }
 }
-
+/*V této verzi mám velký problém. Nedaří se mi zanořit uvod vč. menu do hlavičky. Budto se zanoří úvod (position relativ), ale bez menu). Nebo je menu na správném místě, ale celé to začíná, tam, kde končí úvod. PMoc prosím o nápovědu, co je špatně.  
 @media (min-width: 1000px) {
     body {
         min-width: 1000px;
